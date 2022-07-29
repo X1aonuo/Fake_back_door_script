@@ -9,7 +9,7 @@
 
 转念一想，我们是不是可以做一个通用所有网站的装逼利器呢？
 
-![image](https://user-images.githubusercontent.com/95486088/181680349-1a18d5e0-4e34-4374-b15e-db32e43244e9.png)
+![image](https://pic.imgdb.cn/item/62e35532f54cd3f93799dc0f.gif)
 
 
 用最简单的源码，干最装逼的事：
